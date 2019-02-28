@@ -2,11 +2,11 @@ Line ChatBot
 ===
 
 Deveplotment Environment :
-1. [Anaconda](https://www.anaconda.com/)
-2. [ngrok](https://ngrok.com/)
-3. flask
-4. git
-5. VMware - ubuntu 16.04
+* [Anaconda](https://www.anaconda.com/)
+* [ngrok](https://ngrok.com/)
+* flask
+* git
+* VMware - ubuntu 16.04
 
 ## Easy Setup
 If you want to know how to register and deploy the Line developers, take this 
